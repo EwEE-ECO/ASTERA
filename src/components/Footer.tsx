@@ -27,7 +27,7 @@ export default function Footer() {
             <ul className="space-y-3">
               <li>
                 <a
-                  href="https://t.me/astera_studio"
+                  href="https://t.me/ASTERA_WEB"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="group inline-flex items-center gap-2 text-sm text-[#8A8A8A] hover:text-white transition-colors duration-300"

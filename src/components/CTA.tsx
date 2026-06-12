@@ -9,7 +9,7 @@ export default function CTA() {
     e.preventDefault()
     setFlying(true)
     setTimeout(() => {
-      window.open('https://t.me/astera_studio', '_blank')
+      window.open('https://t.me/ASTERA_WEB', '_blank')
       setFlying(false)
     }, 1000)
   }
@@ -54,7 +54,7 @@ export default function CTA() {
               <motion.a
                 whileHover={{ scale: 1.03 }}
                 whileTap={{ scale: 0.97 }}
-                href="https://t.me/astera_studio"
+                href="https://t.me/ASTERA_WEB"
                 target="_blank"
                 rel="noopener noreferrer"
                 onClick={handleClick}
