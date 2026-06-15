@@ -9,7 +9,7 @@ export interface Project {
 export const projects: Project[] = [
   {
     title: 'Барбершоп «Классика»',
-    image: '/ASTERA/screenshots/classica.jpg',
+    image: '/screenshots/classica.jpg',
     description:
       'Лендинг с каталогом услуг, прайсом и формой записи. Адаптивный дизайн, SEO-оптимизация, интеграция с Telegram для уведомлений о записях.',
     tags: ['HTML', 'CSS', 'JavaScript', 'Telegram API'],
@@ -17,7 +17,7 @@ export const projects: Project[] = [
   },
   {
     title: 'Stoming Clinic',
-    image: '/ASTERA/screenshots/stoming.jpg',
+    image: '/screenshots/stoming.jpg',
     description:
       'Сайт стоматологической клиники с каталогом услуг, карточками врачей и онлайн-записью. Современный стек, акцент на скорость и UX.',
     tags: ['React', 'TypeScript', 'Tailwind', 'Next.js'],
@@ -25,7 +25,7 @@ export const projects: Project[] = [
   },
   {
     title: 'DS-Motier',
-    image: '/ASTERA/screenshots/ds-motier.jpg',
+    image: '/screenshots/ds-motier.jpg',
     description:
       'Open-source Discord бот для сборки серверов из DSL-шаблонов. Гибкая система конфигурации, модульная архитектура, поддержка плагинов.',
     tags: ['Python', 'Discord API', 'DSL', 'SQLite'],

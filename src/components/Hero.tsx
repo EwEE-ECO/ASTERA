@@ -14,7 +14,7 @@ const textVars = {
 export default function Hero() {
   return (
     <section className="relative overflow-hidden scroll-mt-20 min-h-screen">
-      <div className="absolute inset-0 bg-cover bg-center bg-no-repeat" style={{ backgroundImage: 'url(/ASTERA/hero-bg.png)' }} />
+      <div className="absolute inset-0 bg-cover bg-center bg-no-repeat" style={{ backgroundImage: 'url(/hero-bg.png)' }} />
       <div className="absolute inset-0 bg-black/60" />
       <div className="relative w-full min-h-screen flex items-center px-6 lg:px-16 xl:px-24">
         <div className="w-full max-w-3xl">
